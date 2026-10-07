@@ -1,0 +1,12 @@
+{
+  "name": "russian-editor-marketplace",
+  "interface": {"displayName": "Russian Editor"},
+  "plugins": [
+    {
+      "name": "russian-editor",
+      "source": {"source": "local", "path": "./"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity"
+    }
+  ]
+}

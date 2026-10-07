@@ -1,0 +1,15 @@
+{
+  "name": "russian-editor",
+  "version": "1.1.0",
+  "description": "Редактура русского текста, соавторство и обучение письму с сохранением смысла и голоса автора.",
+  "author": {"name": "Yakov Weber"},
+  "repository": "https://github.com/SingeltonAttero/russian-editor-skill",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Редактор русского текста",
+    "shortDescription": "Ясный русский с сохранением смысла и голоса",
+    "developerName": "Yakov Weber",
+    "category": "Productivity"
+  }
+}

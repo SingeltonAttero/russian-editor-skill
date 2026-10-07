@@ -1,0 +1,14 @@
+{
+  "name": "russian-editor-marketplace",
+  "owner": {"name": "Yakov Weber"},
+  "metadata": {"description": "Публичный редактор русского текста: скилл и плагинная упаковка."},
+  "plugins": [
+    {
+      "name": "russian-editor",
+      "source": "./",
+      "description": "Редактура русского текста, соавторство и обучение письму с сохранением смысла и голоса автора.",
+      "version": "1.1.0",
+      "category": "productivity"
+    }
+  ]
+}
